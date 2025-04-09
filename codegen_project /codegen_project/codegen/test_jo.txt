@@ -1,0 +1,37 @@
+
+```
+You are an expert software architect. Initialize a new project based on the following parameters. Ensure the project includes all necessary boilerplate code, folders, config files, and follows industry best practices (security, performance, maintainability, scalability). Respond only with final implementation code and configuration — no placeholders or incomplete logic.
+
+Provide:
+- Secure authentication (if web or API).
+- Input validation and error handling.
+- Dependency management (e.g., requirements.txt or package.json).
+- Project should be ready for deployment and local development.
+
+Mandatory Parameters:
+1. Project Name: [Enter project name]
+2. Project Description: [Brief summary of what the project does]
+3. Project Type: [REST Web API, Web Application, CLI Tool, Desktop App, etc.]
+4. Primary Language: [Python, C#, JavaScript, etc.]
+5. Framework: [Django, .NET Core, FastAPI, React, etc.]
+6. Framework Version: [e.g., Django 5.0, .NET Core 8, React 18, etc.]
+7. Project Architecture: [MVC, MVT, MVVM, Clean Architecture, etc.]
+8. Database Type: [PostgreSQL, MySQL, SQLite, MongoDB, etc.]
+9. Testing Framework: [e.g., Pytest, xUnit, Jest, etc.]
+10. Authentication Method: [JWT, OAuth2, Session-based, etc.]
+
+Optional (but recommended) Parameters:
+
+
+11. Deployment Target: [Docker, AWS, Azure, Heroku, etc.]
+12. CI/CD Integration: [GitHub Actions, GitLab CI, etc.]
+13. API Documentation: [Swagger/OpenAPI, ReDoc, etc.]
+14. Initial Modules/Features: [e.g., User Management, Product Catalog, Lead Management, etc.]
+15. Environment Management: [e.g., `.env` with `python-decouple`, `dotenv`, etc.]
+
+Instructions:
+Use the above parameters to fully scaffold a secure, production-ready project. All code should be working out of the box. Follow framework best practices and clean code standards. If any parameters are missing, suggest reasonable defaults.
+```
+
+---
+
